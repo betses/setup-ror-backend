@@ -124,7 +124,7 @@ In order to run this project you need:
 ```sh
 git
 node
-npm
+rails 
 ```
 
 ### Setup
@@ -133,7 +133,7 @@ Clone this repository to your desired folder:
 
 ```sh
   git clone https://github.com/betses/setup-ror-backend
-  cd Final-capstone--frontend
+  cd setup-ror-backend
   Open in your favorite editor
 ```
 
@@ -142,7 +142,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```
-npm install
+bundle install
 ```
 
 ### Usage
@@ -150,14 +150,15 @@ npm install
 To run the project, execute the following command:
 
 ```sh
-npm run dev
+rails s
 ```
 
 ### run-tests
 
-To Test the project, execute the following command:
+To Create the Database for the project, execute the following command:
 
-Test the models
+rails db:create
+rails db:migrate
 
 ```sh
 
