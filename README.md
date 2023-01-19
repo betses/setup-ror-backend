@@ -105,7 +105,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo API Endpoint<a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ npm
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/betses/-setup-RoR-React-.git
+  git clone https://github.com/betses/setup-ror-backend
   cd Final-capstone--frontend
   Open in your favorite editor
 ```
